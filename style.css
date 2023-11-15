@@ -1,0 +1,9 @@
+header
+{
+    box-sizing: border-box;
+    padding: 100px;
+    content: 100px;
+    background-color: aqua;
+    height: 300px;
+    
+}
